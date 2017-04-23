@@ -63,7 +63,7 @@
 			<?php
 
 
-				$first = false;
+				$first = true;
 			endwhile; 
 
 			echo avia_pagination('', 'nav');
