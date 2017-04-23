@@ -48,7 +48,7 @@
 		                echo '</div>';
 						?>
 
-		            <footer class="entry-footer">
+		            <footer class="entry-foot">
 		        	
 			        <?php
 			        	get_template_part( 'includes/helper', 'meta-footer' );
